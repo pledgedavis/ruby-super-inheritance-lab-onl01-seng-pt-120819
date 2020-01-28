@@ -7,7 +7,7 @@ class ChattyStudent < Student
 
   def raise_hand
 
-      10.times { super puts super, "Pick me!" }
+      10.times { super puts "Pick me!" }
       # num1.times { |i| print i, " " }
 
 
