@@ -10,7 +10,8 @@ class ChattyStudent < Student
       10.times { super  }
       # num1.times { |i| print i, " " }
 
-10.times do super
+10.times do 
+  super
    end
   end
 
